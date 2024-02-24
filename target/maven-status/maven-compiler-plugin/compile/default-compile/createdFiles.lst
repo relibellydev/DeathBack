@@ -1,0 +1,5 @@
+fr\relibelly\listeners\PlayerListener.class
+fr\relibelly\manager\DeathBackManager.class
+fr\relibelly\DeathBack.class
+fr\relibelly\utils\LocationUtils.class
+fr\relibelly\commands\DeathBackCMD.class

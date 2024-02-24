@@ -1,0 +1,5 @@
+name: DeathBack
+version: '${project.version}'
+main: fr.relibelly.DeathBack
+api-version: '1.20'
+author: Relibelly
